@@ -112,7 +112,7 @@ wxYahooMapsTestMainFrame::~wxYahooMapsTestMainFrame()
 void wxYahooMapsTestMainFrame::Init()
 {
 ////@begin wxYahooMapsTestMainFrame member initialisation
-    m_AppID = wxT("YD-4g6HBf0_JX0yq2IsdnV1Ne9JTpKxQ3Miew--");
+    m_AppID = wxT("<enter-your-app-id-here>");
     m_Latitude = 0;
     m_Longitude = 0;
     m_City = _("Washington");
